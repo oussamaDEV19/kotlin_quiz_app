@@ -1,0 +1,320 @@
+Apple,1,0
+Google,1,1
+HP,1,0
+IBM,1,0
+VS CODE,2,0
+Android Studio,2,1
+InteliJ Idea,2,0
+Sublime,2,0
+les classes java/kotlin,3,0
+fichiers ressources,3,0
+les interfaces graphiques,3,0
+configuration et paramétrage globaux du projet.,3,1
+les classes java/kotlin.,4,0
+fichiers ressources.,4,0
+un système de gestion de construction / compilation,4,1
+un système de gestion des fichiers,4,0
+elements qui apparaissent a l ecran dans une activit,5,0
+un seul ecran d interface utilisateur qui apparait dans votre app.,5,1
+un menu d actions communes en haut de l application,5,0
+menu système le plus haut et icones.,5,0
+elements qui apparaissent a l ecran dans une activite,6,1
+menu système le plus haut et icones..,6,0
+un seul ecran d interface utilisateur qui apparait dans votre app..,6,0
+un menu d actions communes en haut de l application.,6,0
+elements qui apparaissent a l ecran dans une activite.,7,0
+menu système le plus haut et icones...,7,0
+conteneur invisible qui gère les positions / tailles des widgets,7,1
+un seul ecran d interface utilisateur qui apparait dans votre app...,7,0
+un menu d actions communes en haut de l application..,8,1
+menu système le plus haut et icones....,8,0
+elements qui apparaissent a l ecran dans une activite..,8,0
+un seul ecran d interface utilisateur qui apparait dans votre app..:,8,0
+un menu d actions communes en haut de l application...,9,0
+menu système le plus haut et icones.....u,9,1
+elements qui apparaissent a l ecran dans une activite...,9,0
+un seul ecran d interface utilisateur qui apparait dans votre app....:,9,0
+Une zone de saisie de texte,10,0
+texte non-editable.,10,0
+Un widget cliquable avec une etiquette d image,10,1
+Un interrupteur on/off individuel,10,0
+Affiche du texte non-editable,11,0
+Un widget cliquable avec une etiquette de texte,11,1
+Un widget cliquable avec une etiquette d image.,11,0
+Affiche une image sans être cliquable,11,0
+Affiche du texte non-editable.,12,0
+Un widget cliquable avec une etiquette d image..,12,1
+Un widget cliquable avec une etiquette de texte.,12,0
+Affiche une image sans être cliquable.,12,0
+Un widget cliquable avec une etiquette de texte..,13,0
+Un widget cliquable avec une etiquette d image...,13,0
+Affiche du texte non-editable..,13,0
+Affiche une image sans être cliquable..,13,1
+Un widget cliquable avec une etiquette de texte...,14,0
+Un widget cliquable avec une etiquette d image:,14,0
+Affiche du texte non-editable...,14,1
+Affiche une image sans être cliquable...,14,0
+un menu deroulant de choix selectionnables,15,0
+un interrupteur on/off booleen a bascule,15,1
+un conteneur avec des barres de defilement,15,0
+un menu visible de choix selectionnables,15,0
+un menu deroulant de choix selectionnables.,16,1
+un menu visible de choix selectionnables.,16,0
+un conteneur avec des barres de defilement.,16,0
+un interrupteur on/off booleen a bascule.,16,0
+un menu deroulant de choix selectionnables..,17,0
+un menu visible de choix selectionnables..,17,0
+un conteneur avec des barres de defilement..,17,1
+un interrupteur on/off booleen a bascule..,17,0
+un menu visible de choix selectionnables...,18,1
+un interrupteur on/off booleen a bascule...,18,0
+un conteneur avec des barres de defilement...,18,0
+un menu deroulant de choix selectionnables...,18,0
+un menu d actions communes en haut de l application:,19,0
+menu système le plus haut et icones,19,1
+elements qui apparaissent a l ecran dans une activite,19,0
+un seul ecran d interface utilisateur qui apparait dans votre app:,19,0
+Une zone de saisie de texte.,20,0
+texte non-editable,20,0
+Un widget cliquable avec une etiquette d image::,20,1
+Un interrupteur on/off individuel.,20,0
+Ce mode accroche les vues les plus a L interieur de la chaine,21,0
+Ce mode accroche les vues les plus a l exterieur de la chaine sur les bords exterieurs,21,1
+Le mode par defaut est le mode etendu,21,0
+Le dernier mode est compresse et regroupe les vues,21,0
+Spread ; Packed,22,0
+Spread ; Packed ; Spread inside,22,1
+Spread ; Spread inside ; Spread out,22,0
+Packed ; Packed inside,22,0
+Un widget cliquable avec une etiquette de texte!,23,0
+Un widget cliquable avec une etiquette d image:::,23,0
+Affiche du texte non-editable,23,0
+Affiche une image sans être cliquable:,23,1
+Un widget cliquable avec une etiquette de texte:,24,0
+Un widget cliquable avec une etiquette d image;,24,0
+Affiche du texte non-editable,24,1
+Affiche une image sans être cliquable::,24,0
+interface graphique,25,0
+langage permettant de decrire des donnees de texte hierarchiques.,25,1
+langage permettant de decrire les classes,25,0
+framework,25,0
+Affiche les widgets / vues dans une seule ligne,26,1
+est une disposition simple; elle peut contenir une ou plusieurs View enfants,26,0
+affiche les widgets / views en lignes de lignes et de colonnes,26,0
+Deux constraints au moins doivent être definis en XML ,26,0
+Deux constraints au moins doivent être definis en XML.,27,0
+Affiche les widgets / vues dans une seule ligne.,27,0
+est une disposition simple elle peut contenir une ou plusieurs View enfants,27,1
+affiche les widgets / views en lignes de lignes et de colonnes. ,27,0
+affiche les widgets / views en lignes de lignes et de colonnes..,28,1
+Affiche les widgets / vues dans une seule ligne..,28,0
+est une disposition simple elle peut contenir une ou plusieurs View enfants.,28,0
+Deux constraints au moins doivent être definis en XML..,28,0
+Affiche les widgets / vues dans une seule ligne...,29,0
+Deux constraints au moins doivent être definis en XML..:,29,1
+est une disposition simple elle peut contenir une ou plusieurs View enfants..,29,0
+affiche les widgets / views en lignes de lignes et de colonnes...,29,0
+Deux constraints au moins doivent être definis en XML.:,30,0
+Affiche les widgets / vues dans une seule ligne:,30,0
+Aligne deux lignes de base de vues contenant du text,30,1
+affiche les widgets / views en lignes de lignes et de colonnes:,30,0
+intent explicite,31,0
+intent,31,0
+intent implicite,31,1
+action_view,31,0
+getIntent,32,1
+getIntentVariable,32,0
+getExtra,32,0
+getRuningIntent,32,0
+App  New -> Service,33,0
+New -> Fragment,33,0
+App  New -> Intent.,33,0
+App  New -> Activity,33,1
+Activity(intent).,34,0
+start(intent).,34,0
+startActivity(intent),34,1
+startActivity().,34,0
+AndroidManifest.kt,35,0
+AndroidManifest.xml:,35,1
+Manifest.xml,35,0
+activity.,35,0
+un pont entre les activites.,36,1
+un canal entre les classes.,36,0
+inteface graphique.,36,0
+xml file.,36,0
+intent explicite.,37,0
+intent.,37,0
+intent implicite.,37,1
+action_view.,37,0
+getIntent.,38,1
+getIntentVariable.,38,0
+getExtra.,38,0
+getRuningIntent.,38,0
+obtention du manager creation d une transaction et attribution des fragments.,39,1
+creation d une transaction et obtention du manager.,39,0
+obtention du manager et attribution des fragments.,39,0
+attribution des fragments creation d une transaction et creation d une transaction.,39,0
+FragmentManager de l application,40,0
+FragmentManager de l activite.,40,1
+id de fragment,40,0
+fragment in activity_main.xml,40,0
+putDate sur l intent.,41,0
+putExtra sur l intent.,41,1
+setExtra sur l intent.,41,0
+Extra() sur l intent.,41,0
+click (only),42,0
+evenement,42,1
+glissement (only),42,0
+click sur un button (only),42,0
+App  New -> Service.,43,0
+New -> Fragment.,43,0
+App  New -> Intent,43,0
+App  New -> Activity.,43,1
+Activity(intent),44,0
+start(intent),44,0
+startActivity(intent).,44,1
+startActivity(),44,0
+AndroidManifest.kt:,45,0
+AndroidManifest.xml,45,1
+Manifest.xml,45,0
+activity,45,0
+un pont entre les activites,46,1
+un canal entre les classes,46,0
+inteface graphique,46,0
+xml file,46,0
+intent explicite..,47,0
+intent..,47,0
+intent implicite..,47,1
+action_view..,47,0
+entre 100-135,48,0
+entre 0-65535,48,1
+entre 0-6500,48,0
+entre 0-60,48,0
+getIntent..,49,1
+getIntentVariable..,49,0
+getExtra..,49,0
+getRuningIntent..,49,0
+random number (1..30),50,0
+un numero d identification,50,1
+numero quelconque,50,0
+un string,50,0
+onDestroy,51,0
+onSaveInstanceState,51,1
+onSave,51,0
+oncreate,51,0
+Log.show(tag ; message),52,0
+Log.i(tag ; message),52,1
+Log.i(tag ; message ; true),52,0
+Log.i(message),52,0
+votre activite sort de l etat Pause.,53,0
+votre activite sort de l etat remove.,53,0
+Votre activite n es plus visible dans l ecran,53,0
+arrêtee et dechargee dela memoire.,53,1
+votre activite sort de l etat Pause..,54,0
+votre activite sort de l etat Destroy.,54,0
+Votre activite n es plus visible dans l ecran.,54,1
+arrêtee et dechargee dela memoire,54,0
+Arrete et n est plus charge en memoire.,55,0
+En cours de chargement; mais pas complètement charge.,55,1
+Partiellement visible; mais non arrête.,55,0
+n est plus actif; mais reste dans la memoire active de l appareil,55,0
+chargement termine et maintenant visible a l ecran.,56,1
+En cours de chargement; mais pas complètement charge..,56,0
+Partiellement visible; mais non arrête..,56,0
+n est plus actif; mais reste dans la memoire active de l appareil.,56,0
+chargement termine et maintenant visible a l ecran..,57,0
+En cours de chargement; mais pas complètement charge...,57,0
+Partiellement visible; mais non arrête...,57,1
+n est plus actif; mais reste dans la memoire active de l appareil..,57,0
+n est plus actif; mais reste dans la memoire active de l appareil...,58,1
+En cours de chargement; mais pas complètement charge....,58,0
+chargement termine et maintenant visible a l ecran...,58,0
+Partiellement visible; mais non arrête..:,58,0
+n est plus actif; mais reste dans la memoire active de l appareil..:,59,0
+Arrete et n est plus charge en memoire,59,1
+En cours de chargement; mais pas complètement charge.....,59,0
+chargement termine et maintenant visible a l ecran....,59,0
+onCreate ; onStart ; onDestroy,60,0
+onCreate ; onStart ; onResum,60,0
+onCreate ; onStart ; onResume,60,1
+onInitialise ; onStart ; onResume,60,0
+sockets,61,0
+Threads,61,1
+interfaces,61,0
+canals,61,0
+view,62,0
+OnCreateView,62,1
+create,62,0
+OnViewCreate,62,0
+La session est sur le point de se terminer,63,0
+Utilisee pour initialiser les composants,63,0
+Appele pour creer la hierarchie de vues representant le fragment,63,0
+Appelee lorsque le fragment a ete connecte a l activite hote.,63,1
+La session est sur le point de se terminer.,64,0
+Utilisee pour initialiser les composants.,64,0
+Utilisee pour initialiser les composants non visuels necessaires au fragment.,64,1
+Appelee lorsque le fragment a ete connecte a l activite hote..,64,0
+Appelee lorsque le fragment a ete connecte a l activite hote...,65,0
+Appele pour creer la hierarchie de vues representant le fragment.,65,1
+La session est sur le point de se terminer..,65,0
+Utilisee pour initialiser les composants..,65,0
+La session est sur le point de se terminer...,66,1
+Utilisee pour initialiser les composants...,66,0
+Appelee lorsque le fragment a ete connecte a l activite hote.:,66,0
+Appele lorsque le fragment inactif,66,0
+Utilisee pour initialiser les composants:,67,0
+Appelee lorsque le fragment a ete connecte a l activite hote..:,67,0
+Appele lorsque le fragment inactif est deconnecte de l activite.,67,1
+La session est sur le point de se terminer:,67,0
+obtention du manager creation d une transaction et attribution des fragments..,68,1
+creation d une transaction et obtention du manager..,68,0
+obtention du manager et attribution des fragments..,68,0
+attribution des fragments creation d une transaction et creation d une transaction,68,0
+FragmentManager de l application.,69,0
+FragmentManager de l activite..,69,1
+id de fragment.,69,0
+fragment in activity_main.xml:,69,0
+un identifiant et un nom complet et positionnement,70,0
+un identifiant,70,0
+un identifiant et un nom complet,70,1
+un nom complet,70,0
+firebase,71,0
+la memoire interne,71,1
+la memoire externe,71,0
+dans le cloud,71,0
+le fichier peut etre lu par n importe quelle application,72,0
+le mode de creation de fichier par defaut,72,1
+ajoutera les nouvelles preferences,72,0
+le fichier peut etre ecrit par n importe quelle application,72,0
+stockage interne et cloud,73,0
+firebase et Mysql,73,0
+stockage externe et sqlite,73,0
+stockage interne et stockage externe,73,1
+getFilesDir(name),74,0
+getFilesExternal(name),74,0
+getExternalFilesDir(name),74,1
+getInternalFilesDir(name),74,0
+langage C++,75,0
+langage C,75,1
+langage cSharp,75,0
+langage Java,75,0
+gerer votre BD,76,1
+insertion des donnees (only),76,0
+supression des donnees (only),76,0
+cree votre BD,76,0
+val dbHelper = FeedReaderDbHelper(),77,0
+val dbHelper = FeedReaderDb(context),77,0
+val dbHelper = FeedReaderDbHelper(context),77,1
+val dbHelper = FeedReaderHelper(context),77,0
+FeedEntry(),78,0
+arrayOf(),78,0
+query(),78,1
+getData(),78,0
+query().,79,0
+delete(),79,1
+supp(),79,0
+supprimer(),79,0
+update(),80,1
+query(update),80,0
+edit(),80,0
+apply(),80,0

@@ -1,0 +1,80 @@
+Android système d exploitation mobile maintenu par,1
+IDE Android officeiel de google est ...,1
+AndroidManifest.xml :,1
+Gradle :,1
+activité (activity) :,1
+Vue (view) :,1
+Event :,1
+barre d actions:,1
+zone de notifications :,1
+CImageButton  :,1
+Bouton :,2
+ImageButton :,2
+ImageView : ,2
+TextView :,2
+Switch :,2
+Spinner :,2
+ScrollView :,2
+Listes:,2
+zone de notifications :,2
+CImageButton...  :,2
+SparedSpread_inside :,3
+Modes Chaines :,3
+Chain constraint :,3
+Bias :,3
+XML :,3
+LinearLayout :,3
+FrameLayout :,3
+GridLayout :,3
+ConstraintLayout :,3
+Baseline Constraint  :,3
+...une qui lance une autre application sans nommer cette application spécifique pour gérer un type donné de demande ou d action.,4
+Vous pouvez accéeder a l intent en appelant :,4
+Ajout d une activité Dans Android Studio,4
+Pour lancer une autre activité :,4
+Chaque activite a une entree dans le fichier...du projet :,4
+intent :,4
+...une qui lance une autre application sans nommer cette application specifique pour gerer un type donne de demande ou d action.,4
+Vous pouvez acceeder a l intent en appelant :,4
+Attribution d’un fragment dynamiquement:,4
+Pour definir des fragments dynamiquement on fait appel au....,4
+Si vous devez transmettre des paramètres ou des donnees à la deuxieme activite appelez ...,5
+Une activite A peut lancer une autre activite B en reponse à un,5
+Ajout d une activite Dans Android Studio,5
+Pour lancer une autre activite :,5
+Chaque activite a une entree dans le fichier ... du projet :,5
+intent :,5
+..... une qui lance une autre application sans nommer cette application specifique pour gerer un type donne de demande ou d action.,5
+REQ_CODE  :,5
+Vous pouvez acceeder a l intent en appelant :,5
+startActivityForResult necessite que vous transmettiez ... unique pour representer l action en cours d execution.,5
+Quand l’activite est detruite ......  est appelee,6
+Methodes de journalisation :,6
+La fonction OnDestroy()  :,6
+La fonction OnStop() est appelee lorsqu on :,6
+etat d activite (starting):,6
+etat d activite (Running):,6
+etat d activite (Paused):,6
+etat d activite (Stopped):,6
+etat d activite (Destroyed):,6
+Lors du demarrage d’une activite; 3 methodes sont appelees automatiquement  :,6
+Les fragments se comportent comme des ...... independants.,7
+Les fragments ont leur propre cycle de vie dans lequel la methode...effectue la plupart du travail,7
+onAttach () : ,7
+onCreate () :,7
+onCreateView () :,7
+OnPause() :,7
+onDetach() :,7
+Attribution d’un fragment dynamiquement:,7
+Pour definir des fragments dynamiquement on fait appel au....,7
+Chaque fragment doit avoir ....,7
+dans sqlite les donnees sont stockees dans...,8
+MODE_PRIVATE est...,8
+Les appareils Android divisent le stockage de fichiers en deux types:,8
+Methodes pour lire / ecrire le stockage externe:,8
+SQLite est une bibliotheque open source ecrite en...,8
+La classe SQLiteOpenHelper contient un ensemble d API utiles pour...,8
+Pour acceder à votre DB instanciez votre sous-classe de SQLiteOpenHelper:,8
+Pour lire à partir d une base de donnees utilisez la methode...,8
+Pour supprimer des lignes d une table vous devez utliser...,8
+Lorsque vous devez modifier des valeurs utilisez la methode...,8
